@@ -1,1 +1,2 @@
-# -gcc
+# soft list
+gcc mysql 
